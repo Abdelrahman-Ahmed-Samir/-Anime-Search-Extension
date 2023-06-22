@@ -12,5 +12,5 @@ Simple User Interface: The extension provides a clean and intuitive user interfa
 Enjoy a seamless browsing experience while staying up-to-date with your favorite anime series using the Anime Search Extension. Discover new shows, get detailed information, and indulge in your passion for anime with just a few clicks!
 
 Note: The Anime Search Extension requires an internet connection to fetch data from the MyAnimeList API.
+The API of MAL is unofficial and got limited queries 500/month , this project just for education purpose.
 
-Please customize the description as per your preference and adjust it to accurately reflect the features and purpose of your extension.
