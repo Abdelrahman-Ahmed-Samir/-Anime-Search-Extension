@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "MAL-Extension",
+  "version": "1.0",
+  "description": "Extension Helps you to search for anime by name and it will give you It's story and you can click on it's name and will generate you to MAL website for info about the anime.",
+  "icons": {
+    "48": "icon.png"
+  },
+  "browser_action": {
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
